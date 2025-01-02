@@ -1,0 +1,111 @@
+.dice1{
+    height: 200px;
+    width: 200px;
+    background-color: blanchedalmond;
+    margin-left: 32%;
+    
+    
+}
+.dice2{
+    height: 200px;
+    width: 200px;
+    background-color: blanchedalmond;
+    margin-left: 32%;
+    
+    
+}
+/* .d1,.d2,.d3,.d4{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.d14,.d24,.d34,.d44{
+    margin-top: 25px;
+    margin-left: 25px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    float: left;
+}
+.d12,.d22,.d32,.d42{
+    margin-top: 25px;
+    margin-left: 25px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    float: left;
+}
+.d12,.d42{
+    background-color: blanchedalmond;
+} */
+h4{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(231, 239, 233);
+}
+
+
+
+
+.main{
+    width: 100%;
+    height: 910px;
+    background-color: darkslategray;
+    margin: 0px;
+
+}
+.header{
+    height: 200px;
+    padding-top: 50px;
+    color: azure;
+    
+}
+.players{
+    height: 200px;
+}
+.player1,.player2{
+    width: 50%;
+    float: left;
+}
+h1{
+    margin-left: 43%;
+
+}
+p{
+    margin-left: 48%;
+}
+h2{
+    margin-left: 40%;
+    font-size: 25px;
+    color: lightgrey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.section{
+    height: 300px;
+}
+.left,.right{
+    width: 50%;
+    float: left;
+}
+.dice{
+    margin-left: 35%;
+}
+.footer{
+    height: 100px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    margin-left: 48.5%;
+    border: solid 2px;
+    border-color: bisque;
+    border-radius: 5px;
+    margin-bottom:10px ;
+}
+.result{
+    height: 60px;
+    margin-left: 48%;
+}
+
